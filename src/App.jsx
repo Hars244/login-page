@@ -7,7 +7,7 @@ import UserContextProvider from './context/UserContextProvider'
 function App() {
   return(
     <UserContextProvider>
-    <h1>React with Chai and share is important</h1>
+    <h2>Login page</h2>
     <Login/>
     <Profile/>
     </UserContextProvider>
